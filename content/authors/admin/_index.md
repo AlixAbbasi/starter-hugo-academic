@@ -74,7 +74,7 @@ email: 'abbasi@cispa.de'
 highlight_name: true
 ---
 
-Alice Bighetti is a tenure-track faculty at CISPA Helmholtz Center for Information Security at Saarland University. His research interests include embedded systems security, security of mission-critical real-time software, and secure space and automotive systems. He leads the Embedded Security group, which develops and implement new methods to protect embedded systems against various classes of attacks, both on the hardware and firmware level.
+Ali Abbasi is a tenure-track faculty at CISPA Helmholtz Center for Information Security at Saarland University. His research interests include embedded systems security, security of mission-critical real-time software, and secure space and automotive systems. He leads the Embedded Security group, which develops and implement new methods to protect embedded systems against various classes of attacks, both on the hardware and firmware level.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
