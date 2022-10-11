@@ -10,7 +10,7 @@ last_name: Abbasi
 superuser: true
 
 # Role/position/tagline
-role: Professor of Computer Security
+# role: Professor of Computer Security
 
 # Organizations/Affiliations to show in About widget
 organizations:
