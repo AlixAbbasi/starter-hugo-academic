@@ -58,7 +58,6 @@ url_code: 'https://github.com/fuzzware-fuzzer/fuzzware'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
 url_source: 'https://www.usenix.org/conference/usenixsecurity22/presentation/scharnowski'
 url_video: ''
 
