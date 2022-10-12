@@ -75,7 +75,7 @@ url_source: 'https://www.usenix.org/conference/usenixsecurity22/presentation/sch
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
