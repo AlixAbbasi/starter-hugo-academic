@@ -1,21 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'GRIMOIRE: Synthesizing Structure while Fuzzing'
+title: 'Nyx-net: network fuzzing with incremental snapshots'
 subtitle: ''
 summary: ''
 authors:
-- Tim Blazytko
-- Cornelius Aschermann
-- Moritz Schlögel
-- Ali Abbasi
 - Sergej Schumilo
-- Simon Wörner
+- Cornelius Aschermann
+- Andrea Jemmett
+- Ali Abbasi
 - Thorsten Holz
 tags: []
 categories: []
-date: '2019-01-01'
-lastmod: 2022-10-12T09:52:07+02:00
+date: '2022-01-01'
+lastmod: 2022-10-12T09:58:26+02:00
 featured: false
 draft: false
 
@@ -33,13 +31,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T07:58:27.527500Z'
+publishDate: '2022-10-12T07:58:26.382862Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*28th USENIX Security Symposium, USENIX Security 2019, Santa Clara,
-  CA, USA, August 14-16, 2019*'
+publication: "*EuroSys '22: Seventeenth European Conference on Computer Systems, Rennes,\
+  \ France, April 5 - 8, 2022*"
+doi: 10.1145/3492321.3519591
 links:
 - name: URL
-  url: https://www.usenix.org/conference/usenixsecurity19/presentation/blazytko
+  url: https://doi.org/10.1145/3492321.3519591
 ---

@@ -1,21 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'GRIMOIRE: Synthesizing Structure while Fuzzing'
+title: 'Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types'
 subtitle: ''
 summary: ''
 authors:
-- Tim Blazytko
-- Cornelius Aschermann
-- Moritz Schlögel
-- Ali Abbasi
 - Sergej Schumilo
+- Cornelius Aschermann
+- Ali Abbasi
 - Simon Wörner
 - Thorsten Holz
 tags: []
 categories: []
-date: '2019-01-01'
-lastmod: 2022-10-12T09:52:07+02:00
+date: '2021-01-01'
+lastmod: 2022-10-12T09:58:26+02:00
 featured: false
 draft: false
 
@@ -33,13 +31,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T07:58:27.527500Z'
+publishDate: '2022-10-12T07:58:26.499330Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*28th USENIX Security Symposium, USENIX Security 2019, Santa Clara,
-  CA, USA, August 14-16, 2019*'
+publication: '*30th USENIX Security Symposium, USENIX Security 2021, August 11-13,
+  2021*'
 links:
 - name: URL
-  url: https://www.usenix.org/conference/usenixsecurity19/presentation/blazytko
+  url: https://www.usenix.org/conference/usenixsecurity21/presentation/schumilo
 ---
