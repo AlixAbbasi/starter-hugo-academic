@@ -46,7 +46,7 @@ abstract: As embedded devices are becoming more pervasive in our everyday lives,
 tags: [embedded, fuzzing]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
