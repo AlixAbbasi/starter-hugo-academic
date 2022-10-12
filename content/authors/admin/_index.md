@@ -24,17 +24,19 @@ bio: My research interests include embedded systems security, Real-Time Operatin
 interests:
   - Computer Security
   - Embedded Systems Security
-  - Space-borne Systems Security
 
 # Education to show in About widget
-education:
+education/academic:
+   - course: Post-Doc
+      institution: Ruhr-University Bochum
+      year: 2018-2021
   courses:
     - course: PhD in Computer Security
       institution: Einhoven University of Technology
-      year: 2018
+      year: 2013-2018
     - course: MSc in Computer Science
       institution: Tsinghua University
-      year: 2013
+      year: 2011-2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
