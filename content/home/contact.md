@@ -47,8 +47,8 @@ content:
       icon_pack: fab
       name: DM Me
       link: 'https://twitter.com/AlixAbbasi'
-    - icon: video
-      icon_pack: fas
+#    - icon: video
+ #     icon_pack: fas
   #    name: Zoom Me
    #   link: 'https://zoom.com'
 
