@@ -18,7 +18,8 @@ authors:
 
 
 # Author notes (optional)
-author_notes:
+# author_notes:
+#  - 'Equal contribution'
 
 date: '2022'
 doi: ''
