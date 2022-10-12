@@ -22,35 +22,35 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: abbasi@cispa.de
+  phone: +49 681 87083 2039
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    street: Stuhlsatzenhaus 5  
+    city: Saarbrücken
+    region: Saarland
+    postcode: '66123'
+    country: Germany
+    country_code: DE
+#  coordinates:
+ #   latitude: '37.4275'
+  #  longitude: '-122.1697'
+#  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-    - 'Monday 10:00 to 13:00'
+    - 'Monday 10:00 to 12:00'
     - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+ # appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/AlixAbbasi'
     - icon: video
       icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+  #    name: Zoom Me
+   #   link: 'https://zoom.com'
 
 design:
   columns: '2'
