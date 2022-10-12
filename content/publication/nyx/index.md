@@ -1,21 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Loki: Hardening Code Obfuscation Against Automated Attacks'
+title: 'Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types'
 subtitle: ''
 summary: ''
 authors:
-- Moritz Schlögel
-- Tim Blazytko
-- Moritz Contag
+- Sergej Schumilo
 - Cornelius Aschermann
-- Julius Basler
-- Thorsten Holz
 - Ali Abbasi
+- Simon Wörner
+- Thorsten Holz
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-10-12T09:52:06+02:00
+lastmod: 2022-10-12T10:02:28+02:00
 featured: false
 draft: false
 
@@ -33,12 +31,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T07:58:26.615598Z'
+publishDate: '2022-10-12T08:02:28.555082Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*CoRR*'
+publication: '*30th USENIX Security Symposium, USENIX Security 2021, August 11-13,
+  2021*'
 links:
 - name: URL
-  url: https://arxiv.org/abs/2106.08913
+  url: https://www.usenix.org/conference/usenixsecurity21/presentation/schumilo
 ---

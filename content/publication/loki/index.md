@@ -1,23 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing'
+title: 'Loki: Hardening Code Obfuscation Against Automated Attacks'
 subtitle: ''
 summary: ''
 authors:
-- Tobias Scharnowski
-- Nils Bars
 - Moritz Schloegel
-- Eric Gustafson
-- Marius Muench
-- Giovanni Vigna
-- Christopher Kruegel
+- Tim Blazytko
+- Moritz Contag
+- Cornelius Aschermann
+- Julius Basler
 - Thorsten Holz
 - Ali Abbasi
 tags: []
 categories: []
 date: '2022-08-01'
-lastmod: 2022-10-12T09:58:26+02:00
+lastmod: 2022-10-12T10:02:28+02:00
 featured: false
 draft: false
 
@@ -35,12 +33,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T07:58:26.263466Z'
+publishDate: '2022-10-12T08:02:28.671935Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*31st USENIX Security Symposium (USENIX Security 22)*'
 links:
 - name: URL
-  url: https://www.usenix.org/conference/usenixsecurity22/presentation/scharnowski
+  url: https://www.usenix.org/conference/usenixsecurity22/presentation/schloegel
 ---

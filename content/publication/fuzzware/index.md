@@ -1,19 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types'
+title: 'Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing'
 subtitle: ''
 summary: ''
 authors:
-- Sergej Schumilo
-- Cornelius Aschermann
-- Ali Abbasi
-- Simon Wörner
+- Tobias Scharnowski
+- Nils Bars
+- Moritz Schloegel
+- Eric Gustafson
+- Marius Muench
+- Giovanni Vigna
+- Christopher Kruegel
 - Thorsten Holz
+- Ali Abbasi
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2022-10-12T09:58:26+02:00
+date: '2022-08-01'
+lastmod: 2022-10-12T10:02:28+02:00
 featured: false
 draft: false
 
@@ -31,13 +35,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T07:58:26.499330Z'
+publishDate: '2022-10-12T08:02:28.317971Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*30th USENIX Security Symposium, USENIX Security 2021, August 11-13,
-  2021*'
+publication: '*31st USENIX Security Symposium (USENIX Security 22)*'
 links:
 - name: URL
-  url: https://www.usenix.org/conference/usenixsecurity21/presentation/schumilo
+  url: https://www.usenix.org/conference/usenixsecurity22/presentation/scharnowski
 ---
