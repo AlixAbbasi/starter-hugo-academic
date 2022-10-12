@@ -53,14 +53,14 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.usenix.org/system/files/sec22-scharnowski.pdf'
 url_code: 'https://github.com/fuzzware-fuzzer/fuzzware'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
 url_source: 'https://www.usenix.org/conference/usenixsecurity22/presentation/scharnowski'
-url_video: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
