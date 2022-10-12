@@ -24,7 +24,6 @@ bio: My research interests is embedded systems security in general and includes 
 interests:
   - Computer Security
   - Embedded Systems Security
-  - Space-borne Systems Security
 
 # Education to show in About widget
 education:
