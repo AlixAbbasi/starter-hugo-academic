@@ -78,3 +78,5 @@ highlight_name: true
 
 I am a tenure-track faculty at CISPA Helmholtz Center for Information Security at Saarland University. My research interests include embedded systems security, security of mission-critical real-time software, and secure space and automotive systems. I lead the Embedded Security group at CISPA, which develops and implement new methods to protect embedded systems against various classes of attacks, both on the hardware and firmware level.
 
+
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
