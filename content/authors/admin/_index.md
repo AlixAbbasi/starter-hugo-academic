@@ -18,7 +18,7 @@ organizations:
     url: https://cispa.de
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include embedded systems security, Real-Time Operating System (RTOS) security, space systems security and security of embedded control systems such as electronic control units.
+bio: My research interests is embedded systems security in general and includes topics such as Real-Time Operating System (RTOS) security, space systems security and security of embedded control systems such as electronic control units and Programmable Logic Controllers.
 
 # Interests to show in About widget
 interests:
@@ -74,6 +74,5 @@ email: 'abbasi@cispa.de'
 highlight_name: true
 ---
 
-I am a tenure-track faculty at CISPA Helmholtz Center for Information Security at Saarland University. My research interests include embedded systems security, security of mission-critical real-time software, and secure space and automotive systems. I lead the Embedded Security group at CISPA, which develops and implement new methods to protect embedded systems against various classes of attacks, both on the hardware and firmware level.
-
+I am a tenure-track faculty at CISPA Helmholtz Center for Information Security at Saarland University. My research interests include embedded systems security, security of mission-critical real-time software, and secure space and automotive systems. I lead the Embedded Security group at CISPA, which develops and implements new methods to protect embedded systems against various classes of attacks, both on the hardware and firmware.
 
