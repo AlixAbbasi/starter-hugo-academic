@@ -1,23 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing'
+title: On Emulation-Based Network Intrusion Detection Systems
 subtitle: ''
 summary: ''
 authors:
-- Tobias Scharnowski
-- Nils Bars
-- Moritz Schloegel
-- Eric Gustafson
-- Marius Muench
-- Giovanni Vigna
-- Christopher Kruegel
-- Thorsten Holz
 - Ali Abbasi
+- Jos Wetzels
+- Wouter Bokslag
+- Emmanuele Zambon
+- Sandro Etalle
 tags: []
 categories: []
-date: '2022-08-01'
-lastmod: 2022-10-12T10:06:49+02:00
+date: '2014-01-01'
+lastmod: 2022-10-12T10:06:51+02:00
 featured: false
 draft: false
 
@@ -35,12 +31,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T08:06:49.613310Z'
+publishDate: '2022-10-12T08:06:51.123119Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*31st USENIX Security Symposium (USENIX Security 22)*'
+publication: '*Research in Attacks, Intrusions and Defenses - 17th International Symposium,
+  RAID 2014, Gothenburg, Sweden, September 17-19, 2014. Proceedings*'
+doi: 10.1007/978-3-319-11379-1_19
 links:
 - name: URL
-  url: https://www.usenix.org/conference/usenixsecurity22/presentation/scharnowski
+  url: https://doi.org/10.1007/978-3-319-11379-1_19
 ---

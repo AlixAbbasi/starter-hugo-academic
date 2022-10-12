@@ -1,23 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing'
+title: Challenges in Designing Exploit Mitigations for Deeply Embedded Systems
 subtitle: ''
 summary: ''
 authors:
-- Tobias Scharnowski
-- Nils Bars
-- Moritz Schloegel
-- Eric Gustafson
-- Marius Muench
-- Giovanni Vigna
-- Christopher Kruegel
-- Thorsten Holz
 - Ali Abbasi
+- Jos Wetzels
+- Thorsten Holz
+- Sandro Etalle
 tags: []
 categories: []
-date: '2022-08-01'
-lastmod: 2022-10-12T10:06:49+02:00
+date: '2019-01-01'
+lastmod: 2022-10-12T10:06:50+02:00
 featured: false
 draft: false
 
@@ -35,12 +30,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T08:06:49.613310Z'
+publishDate: '2022-10-12T08:06:50.428105Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*31st USENIX Security Symposium (USENIX Security 22)*'
+publication: '*IEEE European Symposium on Security and Privacy, EuroS&P 2019, Stockholm,
+  Sweden, June 17-19, 2019*'
+doi: 10.1109/EuroSP.2019.00013
 links:
 - name: URL
-  url: https://www.usenix.org/conference/usenixsecurity22/presentation/scharnowski
+  url: https://doi.org/10.1109/EuroSP.2019.00013
 ---

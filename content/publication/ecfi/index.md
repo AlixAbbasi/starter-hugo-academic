@@ -1,23 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing'
+title: 'ECFI: Asynchronous Control Flow Integrity for Programmable Logic Controllers'
 subtitle: ''
 summary: ''
 authors:
-- Tobias Scharnowski
-- Nils Bars
-- Moritz Schloegel
-- Eric Gustafson
-- Marius Muench
-- Giovanni Vigna
-- Christopher Kruegel
-- Thorsten Holz
 - Ali Abbasi
+- Thorsten Holz
+- Emmanuele Zambon
+- Sandro Etalle
 tags: []
 categories: []
-date: '2022-08-01'
-lastmod: 2022-10-12T10:06:49+02:00
+date: '2017-01-01'
+lastmod: 2022-10-12T10:06:50+02:00
 featured: false
 draft: false
 
@@ -35,12 +30,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T08:06:49.613310Z'
+publishDate: '2022-10-12T08:06:50.777118Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*31st USENIX Security Symposium (USENIX Security 22)*'
+publication: '*Proceedings of the 33rd Annual Computer Security Applications Conference,
+  Orlando, FL, USA, December 4-8, 2017*'
+doi: 10.1145/3134600.3134618
 links:
 - name: URL
-  url: https://www.usenix.org/conference/usenixsecurity22/presentation/scharnowski
+  url: https://doi.org/10.1145/3134600.3134618
 ---

@@ -1,23 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing'
+title: Stealth Low-Level Manipulation of Programmable Logic Controllers I/O by Pin
+  Control Exploitation
 subtitle: ''
 summary: ''
 authors:
-- Tobias Scharnowski
-- Nils Bars
-- Moritz Schloegel
-- Eric Gustafson
-- Marius Muench
-- Giovanni Vigna
-- Christopher Kruegel
-- Thorsten Holz
 - Ali Abbasi
+- Majid Hashemi
+- Emmanuele Zambon
+- Sandro Etalle
 tags: []
 categories: []
-date: '2022-08-01'
-lastmod: 2022-10-12T10:06:49+02:00
+date: '2016-01-01'
+lastmod: 2022-10-12T10:06:51+02:00
 featured: false
 draft: false
 
@@ -35,12 +31,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T08:06:49.613310Z'
+publishDate: '2022-10-12T08:06:51.009179Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*31st USENIX Security Symposium (USENIX Security 22)*'
+publication: '*Critical Information Infrastructures Security - 11th International
+  Conference, CRITIS 2016, Paris, France, October 10-12, 2016, Revised Selected Papers*'
+doi: 10.1007/978-3-319-71368-7_1
 links:
 - name: URL
-  url: https://www.usenix.org/conference/usenixsecurity22/presentation/scharnowski
+  url: https://doi.org/10.1007/978-3-319-71368-7_1
 ---

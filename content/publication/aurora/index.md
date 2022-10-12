@@ -1,23 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing'
+title: 'AURORA: Statistical Crash Analysis for Automated Root Cause Explanation'
 subtitle: ''
 summary: ''
 authors:
-- Tobias Scharnowski
-- Nils Bars
-- Moritz Schloegel
-- Eric Gustafson
-- Marius Muench
-- Giovanni Vigna
-- Christopher Kruegel
-- Thorsten Holz
+- Tim Blazytko
+- Moritz Schlögel
+- Cornelius Aschermann
 - Ali Abbasi
+- Joel Frank
+- Simon Wörner
+- Thorsten Holz
 tags: []
 categories: []
-date: '2022-08-01'
-lastmod: 2022-10-12T10:06:49+02:00
+date: '2020-01-01'
+lastmod: 2022-10-12T10:06:50+02:00
 featured: false
 draft: false
 
@@ -35,12 +33,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-12T08:06:49.613310Z'
+publishDate: '2022-10-12T08:06:50.312443Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*31st USENIX Security Symposium (USENIX Security 22)*'
+publication: '*29th USENIX Security Symposium, USENIX Security 2020, August 12-14,
+  2020*'
 links:
 - name: URL
-  url: https://www.usenix.org/conference/usenixsecurity22/presentation/scharnowski
+  url: https://www.usenix.org/conference/usenixsecurity20/presentation/blazytko
 ---
