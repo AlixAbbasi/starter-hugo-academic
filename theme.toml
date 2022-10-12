@@ -5,6 +5,7 @@ description = "Use the website builder to easily build your site with 50+ widget
 homepage = "https://github.com/wowchemy/starter-hugo-academic/"
 demosite = "https://wowchemy.com/hugo-themes/"
 tags = ["widgets",
+        "resume",
         "portfolio",
         "responsive",
         "clean",
@@ -21,6 +22,7 @@ tags = ["widgets",
         "single page",
         "contact form",
         "mobile",
+        "gallery",
         "search",
         "presentation",
         "simple",
